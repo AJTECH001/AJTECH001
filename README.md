@@ -1,1 +1,3 @@
-# AJTECH001
+# ajtech. 🦀
+
+# Securing protocols
