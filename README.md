@@ -7,3 +7,7 @@
 ### Security used to be an inconvenience; now it’s essential.
 
 ### Any system can be hacked—this is no longer a secret.
+
+### The most successful attacks are the ones that go unnoticed.
+
+### Security is not a destination; it’s a journey.
