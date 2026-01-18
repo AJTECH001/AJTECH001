@@ -11,3 +11,6 @@
 ### The most successful attacks are the ones that go unnoticed.
 
 ### Security is not a destination; it’s a journey.
+
+### You must stay in the game long enough to get lucky.
+
