@@ -14,3 +14,4 @@
 
 ### You must stay in the game long enough to get lucky.
 
+#### Luck favors persistence. Stay consistent, and opportunities will eventually find you.
