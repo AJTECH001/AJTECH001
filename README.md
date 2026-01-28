@@ -17,3 +17,5 @@
 #### Luck favors persistence. Stay consistent, and opportunities will eventually find you.
 
 ### Programming is the art of telling another human being what one wants the computer to do
+
+### Think Fast, Act faster.
