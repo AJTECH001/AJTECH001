@@ -21,3 +21,5 @@
 ### Think Fast, Act faster.
 
 ### Continuous Learning
+
+### fundamentals are everything — AI is just a tool
